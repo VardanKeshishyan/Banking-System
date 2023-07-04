@@ -4,9 +4,13 @@ This code demonstrates a banking system with user registration, authentication, 
 Few key learning points 
 
 Object-Oriented Programming (OOP)
+
 Class and Object Creation
+
 Methods and Data Members
+
 Collections
+
 Control Flow
 
 ![image](https://github.com/VardanKeshishyan/Banking-System/assets/138354187/30225c75-7454-4865-84cb-7c0bf5099ffc)

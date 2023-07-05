@@ -2,6 +2,7 @@
 A Java program that simulates a simple banking system. The program allows users to register, authenticate, create bank accounts, deposit funds, withdraw funds, and view transaction history.
 
 **Description**
+
 The Simple Banking System program consists of the following classes:
 
 User: Represents a user with a username and password. Users can be registered and authenticated.
@@ -25,6 +26,7 @@ Users can withdraw funds from their bank accounts if the balance is sufficient.
 Users can view the transaction history for their bank accounts.
 
 **Features**
+
 User registration and authentication.
 Bank account creation.
 Deposit funds into a bank account.
@@ -33,6 +35,7 @@ View transaction history for a bank account.
 
 
 **Usage**
+
 Compile the Java program:
 
 The program will register a user with the username "john123" and password "password123".
